@@ -9,6 +9,4 @@ public class SpringbootKafkaRealWorldProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootKafkaRealWorldProjectApplication.class, args);
 	}
-//dev
-//saurav made the changes
 }
